@@ -368,20 +368,5 @@ footer .footer span a:hover {
         align-items: center;
     }
   
-    .about .boxes .box {
-        max-width: 70%;
-    }
 }
-.box1{
-    width: 150px;
-    height: 150px;
-    background: black;
-
-}
-.box2{
-  width: 150px;
-  height: 150px;
-  background: black;
-}
-
 
